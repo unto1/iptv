@@ -85,9 +85,11 @@ http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8
 #EXTINF:-1  group-title="RELIGI", DHAMMA TV
 http://119.110.74.237:1935/live/dhammawebtv.stream/playlist.m3u8
 
- #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids",Nickelodeon 
- http://185.176.117.243/live/eds/Nickelodeon/HLS_encr/Nickelodeon.m3u8 
- #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids",Nick JR 
- http://185.176.117.243/live/eds/Nick_JR/HLS_encr/Nick_JR.m3u8 
- #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids",Nicktoons 
- http://185.176.117.243/live/eds/Nicktoons/HLS_encr/Nicktoons.m3u8 
+#EXTINF:-1 group-title="Kids",Nickelodeon 
+http://185.176.117.243/live/eds/Nickelodeon/HLS_encr/Nickelodeon.m3u8 
+
+#EXTINF:-1 group-title="Kids",Nick JR 
+http://185.176.117.243/live/eds/Nick_JR/HLS_encr/Nick_JR.m3u8 
+
+#EXTINF:-1 group-title="Kids",Nicktoons 
+http://185.176.117.243/live/eds/Nicktoons/HLS_encr/Nicktoons.m3u8 
