@@ -102,11 +102,8 @@ http://210.210.155.35/uq2663/h/h08/01.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iGxIDsI.png" group-title="LOKAL",K Plus (Opt-2)
 http://45.126.83.51/uq2663/h/h08/index.m3u8
 
-#EXTINF:-1,group-title="LOKAL"RCTI 
-https://live.rctiplus.id/rctiplus/mnctv_360p.m3u8?vhost=__defaultVhost__
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pwfR4JY/kuduszal.png" group-title="LOKAL",RCTI
+https://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005902~exp=9007200790746893~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=d3f38106d3b48f97b8cd3ff97e7e6d25a3f843a0875815c231a14b29bdd3ef34
 
-#EXTINF:-1,group-title="LOKAL"GTV 
-https://live.rctiplus.id/rctiplus/gtv_360p.m3u8?vhost=__defaultVhost__
-
-#EXTINF:-1,group-title="LOKAL" MNCTV 
-https://live.rctiplus.id/rctiplus/mnctv_360p.m3u8?vhost=__defaultVhost_
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pwfR4JY/kuduszal.png" group-title="LOKAL",RCTI plus
+https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
