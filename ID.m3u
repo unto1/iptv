@@ -137,5 +137,8 @@ http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/playlist
 #EXTINF:-1 group-title="KOREA", TVN film
 http://199.21.149.42:9083/live/lmgr218-live1/F8/6x/F86xTagKpWyjsAWhpFhRYQ==/live.M3U8
 
-#EXTINF:-1 group-title="KOREA", NHK World
+#EXTINF:-1 group-title="JAPAN", NHK World
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_low_s.m3u8
+
+#EXTINF:-1 group-title="JAPAN", waku2
+http://cdn2.streamera.tv/streamagoedge/59898/49701/playlist.m3u8
