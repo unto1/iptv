@@ -199,128 +199,85 @@ https://livetvhooq.akamaized.net/8eb1108c494240ef94c5c8ae7e572c29/eu-central-1/5
 http://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005902~exp=9007200790746893~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=d3f38106d3b48f97b8cd3ff97e7e6d25a3f843a0875815c231a14b29bdd3ef34
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_trans7_big1.png?v=1.0.0.0" group-title="LOKAL",  TRANS7
 http://video.detik.com/trans7/smil:trans7.smil/chunklist_w798109995_b384000_sleng.m3u8?regieaerlays
-
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_tvone_big1.png?v=1.0.0.0" group-title="LOKAL", TVRI Sports1
 http://210.210.155.35/session/69e800f6-97c0-11e9-888f-b82a72d63267/qwr9ew/s/s107/index.m3u8
-
 #EXTINF:-1  tvg-logo="http://wallperio.com/data/out/263/naruto-wallpaper-hd_610191579.jpg" group-title="LOKAL", NET TV SD
 http://210.210.155.35/qwr9ew/s/s08/01.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Kids",DISNEY JUNIOR Indo SD
 http://103.47.132.164/PLTV/88888888/224/3221226011/02.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Kids",Disney Junior Asia
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
-
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_cnnindonesia_big1.png?v=1.0.0.0" group-title="LOKAL",  CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="LOKAL", CNBC INDONESIA HD
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.beritasatu.tv/wp-content/themes/beritasatu/images/beritasatu-news-ch.png" group-title="LOKAL",  BERITA SATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-yV30JH3e3MM/W492MLDRaxI/AAAAAAAABpI/cvQJkQXp_Qwzz86PJ7bjNwpX2081QZdAACLcBGAs/h120/metrotv.png" group-title="LOKAL",Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2076301259_b1492000_sleng.m3u8
-
 #EXTINF:-1 group-title="LOKAL", BERITA SATU WORLD
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Aniplus_Asia_Logo.png/220px-Aniplus_Asia_Logo.png" tvg-country="ID" tvg-url="" group-title="KIDS",Aniplus
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/59/ADiTV_Jogja.png" group-title="Religious",ADiTV (Yogyakarta)
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://miaomi-tv.com/Public/images/miao-mi-logo-color.png" group-title="KIDS",  MIAO MI SD
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
-
 #EXTINF:-1 tvg-ID="" tvg-name="FOX" tvg-logo="" group-title="HIBURAN",FOX
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="Pengetahuan",NATGEO LUAR
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
- 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="Pengetahuan",NATGEO WILD LUAR
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
- 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/NatGeo_People_logo.png" group-title="Pengetahuan",NATGEO PEOPLE LUAR
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
-
 #EXTINF:-1  tvg-logo="https://en.wikipedia.org/wiki/Bloomberg_Television#/media/File:Bloomberg_Television_2016.png" group-title="NEWS", BLOOMBERG
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
-
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="NEWS", FRANCE24
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="NEWS",BLOOMBERG ASIA
 http://45.126.83.51/uq2663/h/h03/index2.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="NEWS",EURONEWS TV
 http://45.126.83.51/qwr9ew/s/s15/index2.m3u8
-
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Z7OKkgpN2zx_3bGJU7_soaVAJhtJXYE26UVhb9yomFLPjfhVIZ7K0L-6b1f7kcGH5KI-=h355" group-title="RELIGI",  MAKKAH
 http://210.210.155.35/qwr9ew/s/s28/01.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="RELIGI",AL Bahjah
 https://edge.siar.us/albahjahtv/live/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040375.jpg" group-title="Local",Cahaya TV Banten
 http://103.23.201.170:1935/live/livestream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="" tvg-country="ID" tvg-url="" group-title="RELIGI", Ahsan TV
 http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
-
 #EXTINF:-1  group-title="RELIGI", TAHFIDZ TV
 http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8
-
 #EXTINF:-1  group-title="RELIGI", DHAMMA TV
 http://119.110.74.237:1935/live/dhammawebtv.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iGxIDsI.png" group-title="LOKAL",K Plus (Opt-1)
-http://210.210.155.35/uq2663/h/h08/01.m3u8?fluxustv.m3u8
- 
+http://210.210.155.35/uq2663/h/h08/01.m3u8?fluxustv.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iGxIDsI.png" group-title="LOKAL",K Plus (Opt-2)
 http://45.126.83.51/uq2663/h/h08/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0d/TVB_logo.png" group-title="KOREA",  KTV
 http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://soombo.com/assets/images/200_1458422731.png" group-title="KOREA",  CBS TV
 http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.freeetv.com/images/tv8/tvchosum.jpg" group-title="KOREA",  Chosun
 http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KOREA",  Arirang South Korea
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KOREA",  Sony One HD
 http://210.210.155.35/uq2663/h/h13/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KOREA",  SBS IN
 http://210.210.155.35/uq2663/h/h28/index1.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KOREA",  K-Drama
 http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8
-
 #EXTINF:-1 group-title="KOREA",  S-ONE
 http://rr.dens.tv/h/h13/index2.m3u8
-
 #EXTINF:-1 group-title="KOREA",  K+
 http://rr.dens.tv/h/h08/index2.m3u8
-
 #EXTINF:-1 group-title="KOREA", YTN KOREA
 http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/playlist.m3u8
-
 #EXTINF:-1 group-title="KOREA", TVN film
 http://199.21.149.42:9083/live/lmgr218-live1/F8/6x/F86xTagKpWyjsAWhpFhRYQ==/live.M3U8
-
 #EXTINF:-1 group-title="JAPAN", NHK World
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_low_s.m3u8
-
 #EXTINF:-1 group-title="JAPAN", waku2
 http://cdn2.streamera.tv/streamagoedge/59898/49701/playlist.m3u8
