@@ -1025,8 +1025,11 @@ https://video2.onlivestreaming.net/rumahtv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="GAYA HIDUP",NIFTY
 https://livetvhooq.akamaized.net:443/1648324ea85b498897752a6385bb5e08/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573600131~exp=9007200828341122~acl=/1648324ea85b498897752a6385bb5e08/*/profile_0/chunklist.m3u8*~hmac=ef80a6511d587f2eb41ad6648ac462ecb322472d3dfbff48a5e800fe73d24abb
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="mov",trainyrdgn hd
-https://server17.gdrivecdn.co/content.php?id=eEcvbnZZYi9aSndCb3o0bWEvMUYzREU2aWRDMnY0T1ZlWGhITUtZaDBwRC9qL2hHdHR1RVJKMGRaVmxpT2xhLzZDVDVxem5pYjl5WTlldFlkTzJzZEE9PQ==&res=720
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="movie",God must be crazy
+https://www116.o0-1.com/token=NwpqehjtZKloFhmpbZPyzA/1587866688/103.122.0.0/17/f/b4/e3fae95cc671466a793e23b2bbd06b4f-360p.mp4
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="mov",howtotrainydgn sd
-https://server17.gdrivecdn.co/content.php?id=eEcvbnZZYi9aSndCb3o0bWEvMUYzREU2aWRDMnY0T1ZlWGhITUtZaDBwRC9qL2hHdHR1RVJKMGRaVmxpT2xhLzZDVDVxem5pYjl5WTlldFlkTzJzZEE9PQ==&res=360
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="movie",Stampade
+https://s-10.720px.net:182/files/7/3mettljbqrmt90/CINEMA21.CLUB_-_One_Piece_Stampede_-1080p.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="movie",bloodshoot
+https://www682.o0-2.com/token=I4NWdR0IbUMI2p6qhq605A/1587866858/103.122.0.0/115/a/be/8a380d77160e02fdc669b1568b14bbea-480p.mp4
