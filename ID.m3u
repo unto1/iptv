@@ -47,7 +47,7 @@ http://95.141.35.104:8081/look/discoverykids1/playlist.m3u8?PEDROJUNIORTUTORIAIS
 http://listaiptv.brcs.ml:8080/HD_DISCOVERY_KIDS/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
 
 #EXTINF:-1 tvg-id="Disney Junior" tvg-logo="http://s20.postimg.org/fb53ufj49/Disney_Jr.png" group-title="Infantil",Disney Junior
-http://listaiptv.brcs.ml:8080/SD_DISNEY_JR/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+http://103.47.132.164/PLTV/88888888/224/3221226011/02.m3u8?checkedby:hlscat.com
 
 #EXTINF:-1 tvg-id="Disney Channel" tvg-logo="http://s20.postimg.org/p5rnmwxot/Disney_Channel.png" group-title="Infantil",Disney Channel
 http://listaiptv.brcs.ml:8080/SD_DISNEY/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
@@ -100,7 +100,7 @@ http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92705/14042900.jpg" group-title="Kids",Disney Junior Asia
 http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Kids",DISNEY JUNIOR Indo SD
-http://103.47.132.164/PLTV/88888888/224/3221226011/02.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="",FAIL ARMY
 https://livetvhooq.akamaized.net:443/166d36fe333a41e7846c47c07aa4919c/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573599949~exp=9007200828340940~acl=/166d36fe333a41e7846c47c07aa4919c/*/profile_0/chunklist.m3u8*~hmac=f6dc30f96b4ccc9366031d95a30921884645efb4bedd2caf28eadee41e95bfd8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="",GTV
